@@ -4,11 +4,11 @@ Hi 👋 My name is Viijay Ijardar
 Javascript Full Stack Developer
 -------------------------------
 
-Experienced Full Stack Developer with a demonstrated history of working in the information technology and services industry. Skilled in NodeJs, Angular10, ReactJS, MongoDB,Mysql, HTML5, Bootstrap, C++,Javascript , Foundation Design, and jQuery.
+Experienced Full Stack Developer with a demonstrated history of working in the information technology and services industry. Skilled in NodeJs, Angular 2+, ReactJS, MongoDB,Mysql, HTML5, Bootstrap, C++,Javascript , Foundation Design, and jQuery.
 
 * 🌍  I'm based in Indore, India
 * ✉️  You can contact me at [ervijjusty@gmail.com](mailto:ervijjusty@gmail.com)
-* 🚀  I'm currently working on [DigiRecords](http://www.digirecords.in)
+* 🚀  Currently working at [EPAM System](http://www.epam.com)
 * 🧠  I'm learning Blockchain / Python / Java
 
 <a href="https://www.twitter.com/ervijju" target="_blank" rel="noreferrer"><img
